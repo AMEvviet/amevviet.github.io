@@ -33,6 +33,6 @@ nav li a:hover{
 	text-decoration: none;
 	background-color: black;
 }
-#image{
+.image{
 	align-self: center;
 }
