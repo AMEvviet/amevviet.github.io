@@ -1,5 +1,5 @@
 body{
-	background-color: #E7E6E6;
+	background-color: #D8D8D8;
 	color: black;
 }
 #head_title{
@@ -37,4 +37,21 @@ nav li a:hover{
 	max-width: 80%;
 	border-radius: 3px;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+	border: 1px solid red;
+}
+.container{
+	margin-top: 5%;
+	margin: 10%;
+	background-color: #E3E3E3;
+	color: black;
+	border-radius: 3%;
+}
+#content{
+	margin: 2% 2% 10% 2%;
+}
+.container ul{
+	font-family: "Georgia";
+}
+u{
+	color: red;
 }
