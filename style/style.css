@@ -41,13 +41,18 @@ nav li a:hover{
 }
 .container{
 	margin-top: 5%;
-	margin: 10%;
+	margin: 5%;
+	padding: 3%;
 	background-color: #E3E3E3;
 	color: black;
-	border-radius: 3%;
+	border-radius: 0;
 }
+.container a{
+	text-decoration: none;
+	color: blue;
+	}
 #content{
-	margin: 2% 2% 10% 2%;
+	margin: 2% 0% 10% 0%;
 }
 .container ul{
 	font-family: "Georgia";
