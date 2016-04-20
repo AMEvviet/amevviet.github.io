@@ -63,3 +63,23 @@ u{
 table{
 	width: 100%;
 }
+#contacts{
+margin-top: 5%; 
+align-self: center;
+}
+#contacts li{
+	margin-top: 0px;
+	margin-left: 0%;
+	float: left;
+	overflow: hidden;
+	padding: 5%;
+	background-color: orange; 
+	padding: 5%; 
+	border: 50px solid #D8D8D8;
+}
+button{
+	padding:2%;
+	background-color: blue;
+	color: white;
+	border-radius: 10%;
+}
